@@ -1,6 +1,4 @@
-# bmi_calc
-
-A BMI Calculator.
+# BMI Calculator
 
 Flutter App Brewery Bootcamp
 
